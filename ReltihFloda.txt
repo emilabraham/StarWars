@@ -1,0 +1,106 @@
+Guides: 
+http://d6holocron.com/wiki/index.php?title=Monks_of_Shimura
+http://d6holocron.com/wiki/index.php?title=The_Aiki_Order
+http://d6holocron.com/wiki/index.php?title=Noghri
+http://d6holocron.com/wiki/index.php?title=Aiki_Combat
+http://d6holocron.com/wiki/index.php?title=Smoke_Grenade
+Name: Reltih Floda
+Type: Fallen Aiki Jedi
+Gender: Female
+Species: Noghri
+Age: 25
+Height: 4'3"
+Weight: 130 lbs
+
+(Force Balanced 12D)
+Attributes: 12D + bonus 6D
+Dexterity 3D
+  Dodge: Energy Weapons 1D+1
+  Brawling Parry 1D
+Knowledge 2D
+  Willpower 1D
+  Intimidation 1D
+  Survival: Urban 1D
+Mechanical 2D
+  Repulsorlift Operation 1D
+Perception 3D
+  Sneak 1D
+  Search 1D+1
+Strength 3D
+  Brawling: Martial Arts 1D+1
+  Stamina 1D
+Technical 2D
+  First aid 1D
+  Repulsor Repair 1D
+Control 2D
+Sense 1D
+Alter 2D
+
+Move: 10/15 10
+
+Force Powers:
+Enhance attribute
+Aiki Combat
+Telekinesis
+Burst of Speed
+Life Detection
+
+Special Abilities:
+Claws
+Stealth
+Enhanced Senses
+Ignorance
+
+Martial Arts skills:
+Elbow Smash: +1D to damage
+
+Equipment:
+703 credits
+Smoke grenade
+Ikas-Adno 22-B Nightfalcon
+Personal Data Pad
+Utility Belt(three-day sup­
+ply of food capsules, a medpac, a small tool kit, a spare power
+pack, a spare energy cell, a glow rod, a comlink, a liquid cable
+dispenser with a small grappling hook
+robe
+
+Background:
+A Noghri orphan who was raised by a Aiki/Shimura Jedi/Monk. An assassin was sent
+to kill the monk. She came back from the market only to find the house covered
+in the monk's blood and her guardian missing. Fear and adrenaline coursing through
+her system, she tracked down the assailant to the edge of the river. Where she
+surprised him and ripped him to shreds. Looking at the blood on her hands, she
+realized that she was no different from the assailant who took her guardian's
+life. She recalled the teachings of her guardian to never kill.
+
+She vowed never to kill again and to always give her opponent a fair fighting
+chance. If a fight was even necessary at all.
+
+The body of her guardian was lost to the river...
+
+Personality:
+She always fights to the level of her opponent. She will never try to
+dramatically overpower her opponent. This is one of her greatest flaws. Often
+giving opponents a second chance if they show a strong will to fight.
+
+Advantages & Disadvantage:
+Extremely Competitive (+1D)
+Fanatic (+3D)
+
+Objective: To become the strongest martial artist in the galaxy. She seeks out
+the galaxies strongest fighters.
+
+A Quote:
+With great power comes great responsibility
+Strength is justice. Strength is absolute.
+
+Connection With Characters:
+Friends:
+Phesoj Nilats, my late master. He found me as a child abandoned in Coruscant.
+Oam Gnodez, my landlord at the apartment I stay at rent free. In exchange for
+protection from the remaining Sith and their followers.
+
+Enemies:
+Sith assassins. They are the ones that killed my master. If they and their ilk
+managed to kill my master, they will be worthy opponents to test my strength.
